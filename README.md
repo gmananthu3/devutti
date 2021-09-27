@@ -44,7 +44,7 @@ Click WA logo to Join Support Group 👇
 ## 
   <h3 align="center">📢 Support Group 2:</h3>
 <p align="center">
-Click Pikachu logo to Join Support Group 2👇
+Click devutti logo to Join Support Group 2👇
     <br>
 <br>
   <a href="https://chat.whatsapp.com/BLdaoLVnX6jFnkKHFjLbH6" target="blank"><img align="center" src="https://i.hizliresim.com/pce1372.png" alt="kyrie.baran" height="200" width="200" /></a>
@@ -57,7 +57,7 @@ Click Pikachu logo to Join Support Group 2👇
   
 [![Run on Repl.it](https://www.linkpicture.com/q/Untitled-3_10.jpg)](https://replit.com/@phaticusthiccy/WhatsAsena-QR)
 
-[![Deploy](https://www.linkpicture.com/q/heroku.jpg)](https://heroku.com/deploy?template=https://github.com/gmananthu3/pikachu.git)
+[![Deploy](https://www.linkpicture.com/q/heroku.jpg)](https://heroku.com/deploy?template=https://github.com/gmananthu3/devutti.git)
      </div>
 <br>
 <br >
@@ -77,8 +77,8 @@ GET QR
 $ apt update
 $ apt install nodejs --fix-missing
 $ pkg install git
-$ git clone https://github.com/gmananthu3/pikachu
-$ cd pikachu
+$ git clone https://github.com/gmananthu3/devutti
+$ cd devutti
 $ chmod +x *
 $ npm install @adiwajshing/baileys
 $ npm install chalk
@@ -87,8 +87,8 @@ $ node qr.js
       
 ```js
 SETUP
-$ git clone https://github.com/gmananthu3/pikachu
-$ cd pikachu
+$ git clone https://github.com/gmananthu3/devutti
+$ cd devutti
 $ chmod +x *
 $ npm i
 $ node qr.js
@@ -101,8 +101,8 @@ $ node bot.js
 ```
 Due to Whatsapp bot; Your WhatsApp account may be banned.
 This is an open source project, you are responsible for everything you do. 
-Absolutely, Pikachu executives do not accept responsibility.
-By establishing the Pikachu, you are deemed to have accepted these responsibilities.
+Absolutely, devutti executives do not accept responsibility.
+By establishing the devutti, you are deemed to have accepted these responsibilities.
 ```
 
 ## Developers

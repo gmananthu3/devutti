@@ -47,7 +47,7 @@ var ldc = ''
 if (Config.LANG == 'AZ') ldc = '*Bağlantı Aşkarlandı!*'
 if (Config.LANG == 'TR') ldc = '*‎Link Tespit Edildi!*'
 if (Config.LANG == 'EN') ldc = '*ith njanum vilikkilla neeyum villikilla* \n *Jack paranju numma cheythu* 😎\n 😅 *arod parayan aar kelkaan* \n *edth purath aakiyathin shesham aan parayunne* 😅😅'
-if (Config.LANG == 'ML') ldc = '*ഇനി vilഇക്കെടാ നിന്റെ തെറി, jack പറഞ്ഞു കിക്ക് ചെയ്യാൻ 😎!*'
+if (Config.LANG == 'ML') ldc = '*ഇനി വിളിക്കെടാ നിന്റെ തെറി, jack പറഞ്ഞു കിക്ക് ചെയ്യാൻ 😎!*'
 if (Config.LANG == 'ID') ldc = '*Tautan Terdeteksi!*'
 if (Config.LANG == 'PT') ldc = '*Link Detectado!*'
 if (Config.LANG == 'RU') ldc = '*Ссылка обнаружена!*'
